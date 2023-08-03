@@ -1,4 +1,4 @@
-# ipaddr.js
+# ipaddrjs
 
 [![GitHub Workflow Status][gh-actions-img]][github-actions]
 [![Codecov][codecov-badge]][codecov] [![][docs-badge]][docs]
@@ -56,6 +56,6 @@ isValid('127.0.0.1') // true
 [gh-actions-img]: https://img.shields.io/github/actions/workflow/status/deno-libs/ipaddr.js/main.yml?branch=master&style=for-the-badge&logo=github
 [codecov]: https://codecov.io/gh/deno-libs/ipaddr.js
 [github-actions]: https://github.com/deno-libs/ipaddr.js/actions
-[codecov-badge]: https://img.shields.io/codecov/c/gh/deno-libs/ipaddr.js?style=for-the-badge
+[codecov-badge]: https://img.shields.io/coverallsCoverage/github/deno-libs/ipaddr.js?style=for-the-badge
 [docs-badge]: https://img.shields.io/github/v/release/deno-libs/ipaddr.js?color=yellow&label=Docs&logo=deno&style=for-the-badge
 [docs]: https://doc.deno.land/https/deno.land/x/ipaddr.js/mod.ts
